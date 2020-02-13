@@ -32,6 +32,7 @@ button:hover {
 }
 .jumbotron {
   color: red;
+  background-image: url("/..image/jumbotron.png");
 }
 p {
   text-align: center;
