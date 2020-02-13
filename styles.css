@@ -33,6 +33,6 @@ button:hover {
 .jumbotron {
   color: red;
 }
-.p {
-  align: center;
+p {
+  text-align: center;
 }
