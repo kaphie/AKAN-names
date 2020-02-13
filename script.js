@@ -13,9 +13,13 @@ function getDay(name){
         return day
     }
 }
+//arrays
+let daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+let maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
+let femaleNames = ["Akosua", "Adwoa", "Akua", "yaa", "Afua", "Ama"]
 
 function getGender(){
-    var radio = document.getElementsByName("gender"); 
+    var radio = document.getElementsByName("gender");
 
     for (var i = 0; i < radio.length; i++){
         if (radio[i].checked){

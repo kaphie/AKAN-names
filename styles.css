@@ -3,7 +3,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px
-
   }
 
 .form {
@@ -18,11 +17,12 @@ label, form p {
     padding-top: 20px;
     padding-right: 12px;
     font-family: monospace;
+    font-weight: 400;
 }
 
 .great {
     margin-right: 30px;
-
+padding-left: 12px;
 }
 
 .nice, .pro {
@@ -48,6 +48,7 @@ p1 {
   color: white;
 }
 
-h1 {
+.akan {
   color: blue;
+  font-size: 40px;
 }
