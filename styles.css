@@ -27,6 +27,7 @@ padding-left: 12px;
 
 .nice, .pro {
     margin-right: 12px;
+
 }
 
 .form div {
@@ -37,9 +38,15 @@ button:hover {
     background-color: lightseagreen;
     color: white;
 }
-.jumbotron {
-  color: red;
-  background-color:black;
+.parent{
+  margin-top: 10px;
+  margin-bottom: 0;
+  height: 670px;
+  padding: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: #626f92;
+  box-shadow: 1px 0px 2px #ffffff;
 }
 p {
   text-align: center;
@@ -51,4 +58,11 @@ p1 {
 h1 {
   color: blue;
   font-size: 40px;
+}
+.left{
+  background-image: ;
+  background-size: center;
+  height: 670px;
+  border-radius: 10px 0 0 10px;
+  margin: 0;
 }
