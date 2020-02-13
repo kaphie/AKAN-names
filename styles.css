@@ -3,10 +3,11 @@
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px
+
   }
 
 .form {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color:purple;
     padding-top: 20px;
     padding-bottom: 30px;
     text-align: center;
