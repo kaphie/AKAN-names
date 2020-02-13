@@ -1,8 +1,9 @@
 .container-fluid {
-    background-image:  url("/..image/jumbotron.png");
+    background-image:  url("..css/image/jumbotron.png");
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 18px}
+    font-size: 18px
+  }
 
 .form {
     background-color: rgba(0, 0, 0, 0.5);
@@ -14,11 +15,12 @@
 label, form p {
     color:white;
     padding-top: 20px;
-    padding-right: 15px;
+    padding-right: 12px;
 }
 
 .great {
     margin-right: 30px;
+
 }
 
 .nice, .pro {
@@ -35,11 +37,15 @@ button:hover {
 }
 .jumbotron {
   color: red;
-  background-image: url("/..image/jumbotron.png");
+  background-color:black;
 }
 p {
   text-align: center;
 }
 p1 {
   color: white;
+}
+
+h1 {
+  color: blue;
 }
