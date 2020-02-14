@@ -38,7 +38,7 @@ button:hover {
     background-color: lightseagreen;
     color: white;
 }
-.parent{
+/* .parent{
   margin-top: 10px;
   margin-bottom: 0;
   height: 670px;
@@ -47,14 +47,14 @@ button:hover {
   background-size: cover;
   background-image: #626f92;
   box-shadow: 1px 0px 2px #ffffff;
-}
+} */
 p {
   text-align: center;
+  color: white;
 }
 p1 {
   color: white;
 }
-
 h1 {
   color: blue;
   font-size: 40px;
