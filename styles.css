@@ -1,5 +1,5 @@
 .container-fluid {
-    background-image:  url("..css/image/jumbotron.png");
+    background-image:  url("../image/ghana.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px
@@ -52,6 +52,9 @@ button:hover {
 p {
   text-align: center;
   color: white;
+  font-style: oblique;
+  font-family: monospace;
+  font-weight: bold;
 }
 p1 {
   color: white;
