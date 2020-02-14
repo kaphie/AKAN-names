@@ -3,6 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     font-size: 18px
+    background-color:
   }
 .defination{
   margin-top: 20px;
@@ -28,7 +29,7 @@ label, form p {
 .great {
     margin-right: 30px;
 padding-left: 12px;
-
+padding-right: 12px;
 }
 
 .nice, .pro {
@@ -45,7 +46,7 @@ button:hover {
     color: white;
 
 }
-/* .parent{
+.parent{
   margin-top: 10px;
   margin-bottom: 0;
   height: 670px;
@@ -86,4 +87,14 @@ background-image: url("../images/ghana.jpeg");
 
 body{
   text-align: center;
+}
+p2 {
+  font-style: oblique;
+  text-align: center;
+  font-weight: bold;
+  line-height: 150px;
+  font-size: 50px;
+}
+.rounded-circle{
+
 }
