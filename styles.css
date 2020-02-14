@@ -10,6 +10,9 @@
     padding-top: 20px;
     padding-bottom: 30px;
     text-align: center;
+    font-family: sans-serif;
+    font-style: oblique;
+    font-display: block;
 }
 
 label, form p {
@@ -23,6 +26,7 @@ label, form p {
 .great {
     margin-right: 30px;
 padding-left: 12px;
+
 }
 
 .nice, .pro {
@@ -64,7 +68,7 @@ h1 {
   font-size: 40px;
 }
 .left{
-  background-image: ;
+  background-image:
   background-size: center;
   height: 670px;
   border-radius: 10px 0 0 10px;
@@ -72,11 +76,13 @@ h1 {
 }
 .col-md-5 {
   float: right;
+
 }.col-md-7{
   float: left;
-
+background-image: url("../images/ghana.jpeg");
 }
 
 body{
   text-align: center;
+  background-color:
 }
