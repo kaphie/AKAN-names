@@ -6,7 +6,7 @@
   }
 
 .form {
-    background-color:purple;
+    background-color:gray;
     padding-top: 20px;
     padding-bottom: 30px;
     text-align: center;
@@ -37,6 +37,7 @@ padding-left: 12px;
 button:hover {
     background-color: lightseagreen;
     color: white;
+
 }
 /* .parent{
   margin-top: 10px;
@@ -70,6 +71,7 @@ h1 {
   float: right;
 }.col-md-7{
   float: left;
+
 }
 
 body{
