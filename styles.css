@@ -66,3 +66,12 @@ h1 {
   border-radius: 10px 0 0 10px;
   margin: 0;
 }
+.col-md-5 {
+  float: right;
+}.col-md-7{
+  float: left;
+}
+
+body{
+  text-align: center;
+}
