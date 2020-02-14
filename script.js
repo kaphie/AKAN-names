@@ -14,9 +14,9 @@ function getDay(name){
     }
 }
 //arrays
-let daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+/*let daysOfWeek = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
 let maleNames = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw", "Kofi", "Kwame"];
-let femaleNames = ["Akosua", "Adwoa", "Akua", "yaa", "Afua", "Ama"]
+let femaleNames = ["Akosua", "Adwoa", "Akua", "yaa", "Afua", "Ama"]*/
 
 function getGender(){
     var radio = document.getElementsByName("gender");

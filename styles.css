@@ -4,7 +4,9 @@
     background-size: cover;
     font-size: 18px
   }
-
+.defination{
+  margin-top: 20px;
+}
 .form {
     background-color:gray;
     padding-top: 20px;
@@ -84,5 +86,4 @@ background-image: url("../images/ghana.jpeg");
 
 body{
   text-align: center;
-  background-color:
 }
