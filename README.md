@@ -86,6 +86,7 @@ Click the submit button to see what my Akan name would be
 ## Known Bugs
 
 There was a bug that returned the ``akan name`` as undefined which has still given me hard time to figure out.
+especially when i enter the ``1st and 2nd day``
 
 ## License
 > MIT License &copy 2020 Kaphie
