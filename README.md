@@ -65,7 +65,7 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
 See a  small description of what the application does on the landing page.
 Enter my birthday through a form 
 Choose what gender I am.
-Click the submit button to see what my Akan name would be
+Click the submit button to see what my Akan name would be 
 
 ## Screenshot.
 <image src="https://github.com/kaphie/AKAN-names/blob/master/image/Screenshot%20from%202020-02-15%2018-15-02.png" width="1000">
